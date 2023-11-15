@@ -1,0 +1,128 @@
+,job_title,org_name,salary_min,salary_max,director_flag,analyst_flag,scientist_flag,manager_flag,engineer_flag,data_science,data_engineering,database_design,data_analysis,collaborate_stakeholders,data_quality,strong_communication,communication_skills,data_pipelines,unstructured_data,data_lake,data_model,data_scientist,data_requirements,team_management,data_manipulation,data_warehouse,machine_learning,sql,python,tableau,similarity_count,similarity_perc
+0,Director,Centers of Excellence,132552.0,183300.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1,Artificial Intelligence Specialist,Centers of Excellence,142701.0,170800.0,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2,Data and Analytics Specialist,Centers of Excellence,142701.0,170800.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+3,Open Data Specialist,GSA,109366.0,142180.0,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+4,Technology Portfolio Director,TTS Operations,106595.0,138572.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+5,Analyst,State of California,,,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+6,Business Intelligence Analyst,State of California,,,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+7,Business Solutions Analyst,State of California,,,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+8,Data Engineer,State of California,,,,,,,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+9,Data Analyst,State of California,,,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+10,Data Scientist,State of California,,,,,1.0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+11,Information Technology Expert,State of California,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+12,Senior Data Analyst,State of California,,,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+13,Senior Data Engineer,State of California,,,,,,,1.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+14,Senior Data Scientist,State of California,,,,,1.0,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0.045454545454545456
+15,Technical Lead,State of California,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+16,Engineering Practices Lead,City of Austin,86000.0,116000.0,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+17,Technical Lead,Colorado Digital Service,130000.0,130000.0,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+18,"Associate Director, Programs and Evaluation",New York City Mayor's Office for Economic Opportunity (NYC Opportunity),90000.0,110000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+19,Data Curator and Scientist,New York City Mayor's Office for Economic Opportunity (NYC Opportunity),75504.0,94761.0,,,1.0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+20,Senior Data Scientist,New York City Mayor's Office for Economic Opportunity (NYC Opportunity),97000.0,110000.0,,,1.0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+21,Senior Business Analyst,Ontario Digital Service (ODS),74136.0,109246.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+22,"Senior Manager, Data",Ontario Digital Service (ODS),90348.0,135178.0,,,,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+23,Information Technology Executive (Senior Business Analyst),Commonwealth of Pennsylvania,96626.0,146798.0,,1.0,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.09090909090909091
+24,"Head of Quality, Analytics, and Infrastructure",Commonwealth of Pennsylvania,150000.0,160000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0.045454545454545456
+25,Data Analyst and Economist,State of Colorado,75000.0,100000.0,,1.0,,,,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0.18181818181818182
+26,Senior Director of Data Operations,State of Colorado,108000.0,155000.0,1.0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.09090909090909091
+27,Director of Data Science,State of Colorado,86916.0,99960.0,1.0,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,0.9545454545454546
+28,Digital Director,NYS Office of General Services,116000.0,148000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+29,Director of Digital Experience,Franklin County Data Center,115000.0,166000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+30,"Director, Artificial Intelligence and Machine Learning",New York City Office of Technology & Innovation,75000.0,140000.0,1.0,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.09090909090909091
+31,Research and Evaluation Practice Lead,City of Philadephia,75000.0,100000.0,,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+32,Digital Product Manager,City of Orlando,72675.0,96304.0,,,,1.0,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.09090909090909091
+33,Director of Data Services,Department of Labor,117518.0,183500.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+34,"Senior Data Analytics and Reporting Data Engineer, Digital Platform Solutions",NYC Mayor's Office of Contract Services,,,,,,,1.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+35,Senior Data Engineer,Metro Transit Authority,82411.0,108165.0,,,,,1.0,1,1,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,1,1,0,11,0.5
+36,Data Engineering Specialist,Metro Transit Authority,75484.0,99073.0,,,,,1.0,1,1,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,1,1,0,11,0.5
+37,Bloomberg Data Engineer,City of San Francisco,132574.0,166790.0,,,,,1.0,0,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,8,0.36363636363636365
+38,Data Scientist,Internal Revenue Service,111521.0,176300.0,,,1.0,,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0.09090909090909091
+39,"Senior Manager, Data Science",Metro Transit Authority,83981.0,110225.0,,,,1.0,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.09090909090909091
+40,Data Analyst,Office of Personnel Management,98496.0,158432.0,,1.0,,,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,4,0.18181818181818182
+41,Technical Manager,City of New York,130000.0,150000.0,,,,1.0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0.09090909090909091
+42,DTI Team Director,Delaware Department of Technology and Information,99749.0,110000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+43,Data Engineer,NYC Planning,85000.0,100000.0,,,,,1.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,4,0.18181818181818182
+44,(DATA) Business Intelligence Manager,City of Philadephia,85000.0,95000.0,,,,1.0,,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.13636363636363635
+45,Data Scientist,Department of State,112015.0,145617.0,,,1.0,,,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,5,0.22727272727272727
+46,Senior Analyst (Data Analysis),Government Accountability Office,105306.0,147726.0,,1.0,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0.09090909090909091
+47,Product Manager (Data Products),City of Boston,77085.0,114228.0,,,,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+48,Manager Data Analytics,Metro Transit Authority,83981.0,110225.0,,,,1.0,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.09090909090909091
+49,Director of Research and Analytics,State of New York,151901.0,154927.0,1.0,,,,,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,6,0.2727272727272727
+50,Director of Research and Data Analysis,Empire State Development,95000.0,100000.0,1.0,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+51,Deputy Digital Director,Commonwealth of Pennsylvania,54181.0,82387.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+52,Lead Data Scientist Analyst,Montgomery County Government,158000.0,158000.0,,,1.0,,,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,7,0.3181818181818182
+53,Senior Data Scientist,Department of Health and Human Services,155700.0,183500.0,,,1.0,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0.045454545454545456
+54,Senior Director Data Science,Metro Transit Authority,103345.0,135640.0,1.0,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0.13636363636363635
+55,Data Privacy and Security Specialist,State of Colorado,83136.0,104580.0,,1.0,,,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.09090909090909091
+56,Data Analyst,General Services Administration,116393.0,183500.0,,1.0,,,,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,1,6,0.2727272727272727
+57,Project Manager & Analytics Specialist III,City of Detroit,74896.0,93021.0,,1.0,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+58,Director of Data Services,Department of Labor,136908.0,183500.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+59,Data Scientist,Department of Homeland Security,115400.0,196000.0,,,1.0,,,1,1,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,10,0.45454545454545453
+60,Sr. IT Specialist (Business Analyst Researcher),Montgomery County Government,134000.0,134000.0,,1.0,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.09090909090909091
+61,Director of Agency Metrics,NYC Office of the Mayor,150000.0,210000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+62,Assistant Director of Data Systems,Commonwealth of Massachusetts,75000.0,117000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+63,Product Data and Analytics Lead,New Jersey Office of Innovation,75000.0,100000.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+64,Director HR Data Science,Metro Transit Authority,117785.0,154593.0,1.0,,,,,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,8,0.36363636363636365
+65,Interdisciplinary Data Scientist (Advanced Analytics),Government Accountability Office,105306.0,147726.0,,,1.0,,,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,8,0.36363636363636365
+66,Director of Data and Information Technology Management,NYS Department of Transportation,133000.0,169000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+67,Manager of Performance Data and Technology,MBTA,77000.0,102000.0,,,,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0.045454545454545456
+68,Deputy Director of Lean Analytics,MBTA,,,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+69,Data Strategy Senior Manager – Data Services,Commonwealth of Massachusetts,81000.0,126000.0,,,,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+70,IT Senior Business Analyst,New York City Housing Development Corporation,110000.0,120000.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+71,Management and Program Analyst,U.S. Department of Commerce,,,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+72,Management and Program Analyst,Department of Education,132368.0,172075.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+73,Data Scientist,Department of Commerce,78592.0,122459.0,,,1.0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+74,"Data Strategy Senior Manager, Data Services",Massachusetts Executive Office of Health and Human Services,,,,,,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+75,Manager of Performance Data and Technology,MBTA,77000.0,102000.0,,,,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0.045454545454545456
+76,"POLICY ADVISOR, DATA MANAGEMENT & ANALYSIS",HRA DEPT OF SOCIAL SERVICES,75504.0,83901.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+77,Director of Planning and Research,South Carolina Department of Children's Advocacy,54974.0,101712.0,1.0,,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.09090909090909091
+78,SENIOR DATA SCIENTIST,County of Los Angeles,115637.0,155836.0,,,1.0,,,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,1,1,10,0.45454545454545453
+79,"Manager, Report Development",Los Angeles Homeless Services Authority (LAHSA),84558.0,122610.0,,,,1.0,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+80,Statistician,Department of the Treasury,69107.0,158432.0,,1.0,,,,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,1,0,8,0.36363636363636365
+81,Director of Research and Evaluation,City of Philadephia,77400.0,101000.0,1.0,,,,,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,5,0.22727272727272727
+82,ORU Research and Data Manager,City of Philadephia,70000.0,80000.0,,,,1.0,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0.13636363636363635
+83,Information Technology Specialist,National Gallery of Art,112000.0,173000.0,,1.0,,,,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,4,0.18181818181818182
+84,I&T DATA SERVICES ANALYST,City of Charlotte,78814.0,93500.0,,1.0,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+85,Program Reporting and Transparency Manager,State of Colorado,100620.0,134400.0,,,,1.0,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0.09090909090909091
+86,CCCAP Research and Data Analyst,State of Colorado,68100.0,88524.0,,1.0,,,,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,5,0.22727272727272727
+87,IT Specialist (Data Management),Federal Aviation Administration,88791.0,137651.0,,1.0,,,,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,5,0.22727272727272727
+88,Business Analyst III - Lottery,State of Colorado,56028.0,72840.0,,1.0,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+89,Business Intelligence (BI) Developer II,Hennepin County,74269.0,109947.0,,1.0,,,,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,7,0.3181818181818182
+90,Data Scientist,Federal Deposit Insurance Corporation,170779.0,250000.0,,,1.0,,,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0,8,0.36363636363636365
+91,Director of Data Analytics,NYC Administration for Children's Services,82000.0,104000.0,1.0,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,0.22727272727272727
+92,Project Manager Analytics Specialist II,City of Detroit,59102.0,79323.0,,1.0,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+93,Data Scientist,Department of Labor,53105.0,102166.0,,,1.0,,,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,1,1,10,0.45454545454545453
+94,ANALYTICS ENGINEER,City of San Francisco,139542.0,175552.0,,,,,1.0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,5,0.22727272727272727
+95,Data Engineer,The Seattle Public Library,113399.0,137891.0,,,,,1.0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,5,0.22727272727272727
+96,"Manager, Enterprise Applications",State of Colorado,95000.0,115000.0,,,,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+97,Director of Digital Services,City of Syracuse,80000.0,85000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+98,Director of Performance & Data Analytics,City of Stockton,129814.0,165664.0,1.0,,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+99,Management and Program Analyst,National Highway Traffic Safety Administration,69107.0,128043.0,,1.0,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+100,Supervisor Data Analyst,City of Minneapolis,81862.0,104432.0,,1.0,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0.13636363636363635
+101,"Director, Strategy & Research",ADMIN FOR CHILDREN'S SVCS,103026.0,133630.0,1.0,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.09090909090909091
+102,"Director, Technology Ideation",ADMIN FOR CHILDREN'S SVCS,75000.0,160000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.045454545454545456
+103,Business Analyst,City of Detroit,99000.0,150000.0,,1.0,,,,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,8,0.36363636363636365
+104,Data Analyst,City of Detroit,99000.0,115000.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0.09090909090909091
+105,Data Scientist,Bureau of Labor Statistics,112015.0,145617.0,,,1.0,,,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,1,1,1,0,9,0.4090909090909091
+106,Business Analyst,HOUSING PRESERVATION & DVLPMNT,93288.0,107281.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+107,"Manager, System Administration",State of Colorado,99000.0,126000.0,,,,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+108,Co-Director of Data and Policy,New Jersey Office of Innovation,100000.0,100000.0,1.0,,,,,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0.18181818181818182
+109,"Director, Research, Analytics & Evaluation (IDEA)",City of Philadephia,95000.0,110000.0,1.0,,,,,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,5,0.22727272727272727
+110,Business Intelligence Report Developer and Support Analyst,State of Connecticut,105606.0,131567.0,,1.0,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0.09090909090909091
+111,Management and Program Analyst,Department of the Treasury,98458.0,183307.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+112,Business Services Analyst,City of Tacoma,84073.0,118372.0,,1.0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0.18181818181818182
+113,Director of Analysis and Evaluation,Small Business Administration,155700.0,183500.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+114,Research and Data Manager,City of Philadephia,75000.0,80000.0,,,,1.0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0.09090909090909091
+115,Data Analyst 3,NYS Office of General Services,100000.0,125000.0,,1.0,,,,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,8,0.36363636363636365
+116,Data Scientist,Office of Personnel Management,98496.0,158432.0,,,1.0,,,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,7,0.3181818181818182
+117,Lead Management and Program Analyst,Department of the Treasury,149739.0,236357.0,,1.0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0.045454545454545456
+118,Senior Data Scientist,NYC Department of Transportation,103026.0,133630.0,,,1.0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+119,Project Manager Analytics Specialist IV,City of Detroit,91873.0,120496.0,,1.0,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.045454545454545456
+120,CHIEF DATA ANALYST,State of Rhode Island,127942.0,144912.0,,1.0,,,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0.13636363636363635
+121,Senior Manager for Data Services,City of Cambridge,121144.0,133010.0,,,,1.0,,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,4,0.18181818181818182
+122,DIRECTOR OF SPECIAL PROJECTS REPORTING & ANALYTICS,NYC HRA DEPT OF SOCIAL SERVICES,103026.0,118480.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+123,Program Director,State of Colorado,97000.0,120000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+124,Data Engineer,State of Connecticut,120395.0,150906.0,,,,,1.0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,6,0.2727272727272727
+125,Deputy Director of Data Technology,NYC Office of the Mayor,40000.0,175000.0,1.0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+126,Data Scientist,FEMA,78000.0,95000.0,,,1.0,,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,3,0.13636363636363635

@@ -31,6 +31,12 @@ def load_data():
 #Load in data
 data = load_data()
 
+
+st.markdown(
+    """
+    ### View similar jobs to BHA Director of Data Science posting
+"""
+)
 #Define bigram data to load in
 domains = [
     ("data_science", "Data Science"),
@@ -52,6 +58,34 @@ domains = [
     ("data_warehouse", "Data Warehousing"),
     ("machine_learning", "Machine Learning"),
 ]
+
+#Find top matching jobs
+options = st.multiselect(
+    'Select skills to include in similarity calculation',
+    [x[1] for x in domains],
+    default=[x[1] for x in domains])
+
+selected = [x[0] for x in domains if x[1] in options]
+
+data_transformed = data[['job_title', 'org_name', 'salary_min', 'salary_max',
+       'director_flag', 'analyst_flag', 'scientist_flag', 'manager_flag',
+       'engineer_flag', 'data_science',
+       'data_engineering', 'database_design', 'data_analysis',
+       'collaborate_stakeholders', 'data_quality', 'strong_communication',
+       'communication_skills', 'data_pipelines', 'unstructured_data',
+       'data_lake', 'data_model', 'data_scientist', 'data_requirements',
+       'team_management', 'data_manipulation', 'data_warehouse',
+       'machine_learning', 'sql', 'python', 'tableau','r']].copy()
+
+#Calculate how many bigram skills should be available
+num_skills = len(selected)
+
+#Generate similarity vectors based on number of bigram values found
+data_transformed['similarity_count']=data_transformed[selected].sum(axis=1)
+data_transformed['similarity_perc']=data_transformed['similarity_count']/num_skills
+
+st.table(data_transformed[['job_title','org_name','similarity_perc']].sort_values(by='similarity_perc',ascending=False).head(10))
+
 
 #Iterate through bigram domains and create charts as relevant
 for i in range(0, len(domains)):
