@@ -1,128 +1,136 @@
-job_title,org_name,salary_min,salary_max,director_flag,analyst_flag,scientist_flag,manager_flag,engineer_flag,url
-Director,Centers of Excellence,132552,183300,1,,,,,https://www.usajobs.gov/GetJob/ViewDetails/615286200
-Artificial Intelligence Specialist,Centers of Excellence,142701,170800,,,,,,https://drive.google.com/file/d/12Ik1jP78cQyY9nXF0hB-gnS9V0HwG06C/view
-Data and Analytics Specialist,Centers of Excellence,142701,170800,,1,,,,https://drive.google.com/file/d/1abhv-KfudFvIX7OCwfa0ZcU7zAOWzFWS/view
-Open Data Specialist,GSA,109366,142180,,,,,,https://drive.google.com/file/d/1PwKFGcJ6hMKVrbr5Zwz1tfWSncRKPiFL/view
-Technology Portfolio Director,TTS Operations,106595,138572,1,,,,,https://drive.google.com/file/d/1bP0kbXeTeKEIsSZiiK1Y-O9RcsKhvkz5/view
-Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/1KizKFfpnk6_J6XWgSRPXYJzWSquFVKrN/edit#heading=h.gjdgxs
-Business Intelligence Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/16sfsX3Ss6B12sYKQl362WTzHQ0CpDZBz/edit#heading=h.gjdgxs
-Business Solutions Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/1nbO1eBIhy1vLchpVkqHziefRqIOCWHYU/edit#heading=h.gjdgxs
-Data Engineer,State of California,,,,,,,1,https://docs.google.com/document/d/1Nn9I8RiVNxLOp_3qXouJemBTUbKiEaXd/edit#heading=h.gjdgxs
-Data Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/1HehRy29Sk_aRT-t5MdUU_nxMkl471vKW/edit#heading=h.gjdgxs
-Data Scientist,State of California,,,,,1,,,https://docs.google.com/document/d/1Dstgw0yvYEAoi4efCZC_9aSsxQe38EYW/edit#heading=h.gjdgxs
-Information Technology Expert,State of California,,,,,,,,https://docs.google.com/document/d/1CuH8t1TLgAxCg4Ci5FowTZb08SnljaFE/edit#heading=h.gjdgxs
-Senior Data Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/1tILqTVuorJGRqn762mwwtE9jC_T0Ijyj/edit#heading=h.gjdgxs
-Senior Data Engineer,State of California,,,,,,,1,https://docs.google.com/document/d/1A3K0o2NEAALO8X74jwRFOSkInuZxiLZc/edit#heading=h.gjdgxss
-Senior Data Scientist,State of California,,,,,1,,,https://docs.google.com/document/d/1820HO8XDfj3PapAG1MRBtAh6T0zDHCww/edit#heading=h.gjdgxs
-Technical Lead,State of California,,,,,,,,https://docs.google.com/document/d/1kU8r8G2X5CjVai9HXszQxUTP6uioeX2R/edit#heading=h.gjdgxs
-Engineering Practices Lead,City of Austin,86000,116000,,,,,,https://docs.google.com/document/d/1R3Ok4wkecTsYWZSa73mV_QqExQqTnuoM/edit#heading=h.gjdgxs
-Technical Lead,Colorado Digital Service,130000,130000,,,,,,https://docs.google.com/document/d/1XmjzAunDgBOXxRbqrJb82oD--4EInBHA/edit
-"Associate Director, Programs and Evaluation",New York City Mayor's Office for Economic Opportunity (NYC Opportunity),90000,110000,1,,,,,https://drive.google.com/file/d/19mK3FkcleCPvAKuS5fv4J4zcJ4-WBSW1/view
-Data Curator and Scientist,New York City Mayor's Office for Economic Opportunity (NYC Opportunity),75504,94761,,,1,,,https://drive.google.com/file/d/1bNasVLnqB74Cjo83XP4UxajO0-9KHs8z/view
-Senior Data Scientist,New York City Mayor's Office for Economic Opportunity (NYC Opportunity),97000,110000,,,1,,,https://drive.google.com/file/d/1KR4vDXdsXxMPBJfhayxR1MyyJu1lWCAA/view
-Senior Business Analyst,Ontario Digital Service (ODS),74136,109246,,1,,,,https://docs.google.com/document/d/1q9ggkaU4JcmzKvQCmVkdHjK4bnlLHVt1/edit
-"Senior Manager, Data",Ontario Digital Service (ODS),90348,135178,,,,1,,https://docs.google.com/document/d/1KbygBXLv0wIhwx0BYG0MPIVUYm19b0lS/edit
-Information Technology Executive (Senior Business Analyst),Commonwealth of Pennsylvania,96626,146798,,1,,,,https://www.governmentjobs.com/careers/pabureau/jobs/newprint/4158606
-"Head of Quality, Analytics, and Infrastructure",Commonwealth of Pennsylvania,150000,160000,1,,,,,https://www.governmentjobs.com/careers/pabureau/jobs/newprint/3994784
-Data Analyst and Economist,State of Colorado,75000,100000,,1,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4271314
-Senior Director of Data Operations,State of Colorado,108000,155000,1,,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4276723
-Director of Data Science,State of Colorado,86916,99960,1,,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4165915
-Digital Director,NYS Office of General Services,116000,148000,1,,,,,https://www.linkedin.com/jobs/view/3557143127/
-Director of Digital Experience,Franklin County Data Center,115000,166000,1,,,,,https://drive.google.com/file/d/1FJRX63Xn1Q0qq5UU_hpoOsgXMMGhF_jV/view
-"Director, Artificial Intelligence and Machine Learning",New York City Office of Technology & Innovation,75000,140000,1,,,,,https://www.linkedin.com/jobs/view/3529277849/
-Research and Evaluation Practice Lead,City of Philadephia,75000,100000,,,,,,https://jobs.smartrecruiters.com/CityofPhiladelphia/743999899871273-research-and-evaluation-practice-lead
-Digital Product Manager,City of Orlando,72675,96304,,,,1,,https://www.governmentjobs.com/careers/orlando/jobs/newprint/3935469
-Director of Data Services,Department of Labor,117518,183500,1,,,,,https://www.usajobs.gov/job/717728100
-"Senior Data Analytics and Reporting Data Engineer, Digital Platform Solutions",NYC Mayor's Office of Contract Services,,,,,,,1,https://www.linkedin.com/jobs/view/3499345155/
-Senior Data Engineer,Metro Transit Authority,82411,108165,,,,,1,https://careers.mta.org/jobs/12548538-senior-data-engineer
-Data Engineering Specialist,Metro Transit Authority,75484,99073,,,,,1,https://careers.mta.org/jobs/12548536-data-engineering-specialist
-Bloomberg Data Engineer,City of San Francisco,132574,166790,,,,,1,https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990000449256-bloomberg-data-engineer-datasf-1043-
-Data Scientist,Internal Revenue Service,111521,176300,,,1,,,https://www.usajobs.gov/job/690711800?utm_source=civictechjobs1
-"Senior Manager, Data Science",Metro Transit Authority,83981,110225,,,,1,,https://careers.mta.org/jobs/12392577-sr-manager-data-science
-Data Analyst,Office of Personnel Management,98496,158432,,1,,,,https://www.usajobs.gov/job/721954200
-Technical Manager,City of New York,130000,150000,,,,1,,https://buildwithnyc.github.io/technicalmanager.html?utm_source=civictechjobs1
-DTI Team Director,Delaware Department of Technology and Information,99749,110000,1,,,,,https://www.linkedin.com/jobs/view/3593263357/
-Data Engineer,NYC Planning,85000,100000,,,,,1,https://medium.com/nyc-planning-digital/were-hiring-data-engineer-nyc-planning-ef95a3490e0
-(DATA) Business Intelligence Manager,City of Philadephia,85000,95000,,,,1,,https://jobs.smartrecruiters.com/CityofPhiladelphia/743999796865537--data-business-intelligence-manager
-Data Scientist,Department of State,112015,145617,,,1,,,https://www.usajobs.gov/job/724980800
-Senior Analyst (Data Analysis),Government Accountability Office,105306,147726,,1,,,,https://www.usajobs.gov/job/725415500
-Product Manager (Data Products),City of Boston,77085,114228,,,,1,,https://city-boston.icims.com/jobs/25132/product-manager-%28data-products%29/job?hub=8&mobile=false&width=947&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
-Manager Data Analytics,Metro Transit Authority,83981,110225,,,,1,,https://careers.mta.org/jobs/12248354-manager-data-analytics?tm_job=PS104080&amp;tm_event=view&amp;tm_company=47560&amp;bid=370
-Director of Research and Analytics,State of New York,151901,154927,1,,,,,https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=134992
-Director of Research and Data Analysis,Empire State Development,95000,100000,1,,,,,https://statejobsny.com/public/vacancyDetailsView.cfm?id=129051
-Deputy Digital Director,Commonwealth of Pennsylvania,54181,82387,1,,,,,https://www.governmentjobs.com/careers/pabureau/jobs/newprint/3948036
-Lead Data Scientist Analyst,Montgomery County Government,158000,158000,,,1,,,https://www.linkedin.com/jobs/view/3665997894/?refId=GRAOAe95FoGIiBAzbloc9A%3D%3D&trackingId=GRAOAe95FoGIiBAzbloc9A%3D%3D
-Senior Data Scientist,Department of Health and Human Services,155700,183500,,,1,,,https://www.usajobs.gov/job/735621300
-Senior Director Data Science,Metro Transit Authority,103345,135640,1,,,,,https://careers.mta.org/jobs/12248037-senior-director-data-science-ocso?tm_job=PS99674&amp;tm_event=view&amp;tm_company=47560&amp;bid=370
-Data Privacy and Security Specialist,State of Colorado,83136,104580,,1,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4075480
-Data Analyst,General Services Administration,116393,183500,,1,,,,https://www.usajobs.gov/job/736887500
-Project Manager & Analytics Specialist III,City of Detroit,74896,93021,,1,,,,https://www.governmentjobs.com/jobs/newprint/4087827
-Director of Data Services,Department of Labor,136908,183500,1,,,,,https://www.usajobs.gov/job/741336000
-Data Scientist,Department of Homeland Security,115400,196000,,,1,,,https://www.usajobs.gov/job/737482500
-Sr. IT Specialist (Business Analyst Researcher),Montgomery County Government,134000,134000,,1,,,,https://www.linkedin.com/jobs/view/3666003009/
-Director of Agency Metrics,NYC Office of the Mayor,150000,210000,1,,,,,https://a002-oom03.nyc.gov/irm/Handlers/Campaign/Attachments.ashx?attachmentId=5b8ea079-c38e-4d2e-9a4a-85a90cceb94d
-Assistant Director of Data Systems,Commonwealth of Massachusetts,75000,117000,1,,,,,https://www.linkedin.com/jobs/view/3678235338/
-Product Data and Analytics Lead,New Jersey Office of Innovation,75000,100000,,1,,,,https://innovation.nj.gov/join/bizx-product-data-and-analytics-lead//
-Director HR Data Science,Metro Transit Authority,117785,154593,1,,,,,https://careers.mta.org/jobs/12434721-director-hr-data-science?tm_job=664&amp;tm_event=view&amp;tm_company=47560&amp;bid=370
-Interdisciplinary Data Scientist (Advanced Analytics),Government Accountability Office,105306,147726,,,1,,,https://www.usajobs.gov/job/744768200
-Director of Data and Information Technology Management,NYS Department of Transportation,133000,169000,1,,,,,https://www.linkedin.com/jobs/view/3709836827/
-Manager of Performance Data and Technology,MBTA,77000,102000,,,,1,,https://www.linkedin.com/jobs/view/3706898745/
-Deputy Director of Lean Analytics,MBTA,,,1,,,,,https://www.linkedin.com/jobs/view/3706308675/
-Data Strategy Senior Manager – Data Services,Commonwealth of Massachusetts,81000,126000,,,,1,,https://www.linkedin.com/jobs/view/3707222348/
-IT Senior Business Analyst,New York City Housing Development Corporation,110000,120000,,1,,,,https://www.linkedin.com/jobs/view/3691496645/
-Management and Program Analyst,U.S. Department of Commerce,,,,1,,,,https://www.linkedin.com/jobs/view/3706701353/
-Management and Program Analyst,Department of Education,132368,172075,,1,,,,https://www.usajobs.gov/job/745085800
-Data Scientist,Department of Commerce,78592,122459,,,1,,,https://www.usajobs.gov/job/7456315000
-"Data Strategy Senior Manager, Data Services",Massachusetts Executive Office of Health and Human Services,,,,,,1,,https://www.linkedin.com/jobs/view/3708007602/
-Manager of Performance Data and Technology,MBTA,77000,102000,,,,1,,https://www.linkedin.com/jobs/view/3706898745/
-"POLICY ADVISOR, DATA MANAGEMENT & ANALYSIS",HRA DEPT OF SOCIAL SERVICES,75504,83901,,1,,,,https://cityjobs.nyc.gov/job/policy-advisor-data-management-and-analysis-in-manhattan-jid-12068
-Director of Planning and Research,South Carolina Department of Children's Advocacy,54974,101712,1,,,,,https://www.governmentjobs.com/jobs/newprint/4178606
-SENIOR DATA SCIENTIST,County of Los Angeles,115637,155836,,,1,,,https://www.governmentjobs.com/careers/lacounty/jobs/newprint/4146330
-"Manager, Report Development",Los Angeles Homeless Services Authority (LAHSA),84558,122610,,,,1,,https://www.governmentjobs.com/careers/lahsa/jobs/newprint/4181397
-Statistician,Department of the Treasury,69107,158432,,1,,,,https://www.usajobs.gov/job/745958000
-Director of Research and Evaluation,City of Philadephia,77400,101000,1,,,,,https://www.smartrecruiters.com/CityofPhiladelphia/743999934785221-director-of-research-and-evaluation
-ORU Research and Data Manager,City of Philadephia,70000,80000,,,,1,,https://jobs.smartrecruiters.com/CityofPhiladelphia/743999935468945-oru-research-and-data-managerr
-Information Technology Specialist,National Gallery of Art,112000,173000,,1,,,,https://www.linkedin.com/jobs/view/3734606942/?refId=4Cb7%2BdE2TrmHpFvVrMoBGA%3D%3D&trackingId=4Cb7%2BdE2TrmHpFvVrMoBGA%3D%3D
-I&T DATA SERVICES ANALYST,City of Charlotte,78814,93500,,1,,,,https://www.jobapscloud.com/oec/Charlotte/Jobs/Bulletin?R1=2310&R2=371100&R3=01
-Program Reporting and Transparency Manager,State of Colorado,100620,134400,,,,1,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4232513
-CCCAP Research and Data Analyst,State of Colorado,68100,88524,,1,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4221282
-IT Specialist (Data Management),Federal Aviation Administration,88791,137651,,1,,,,https://www.usajobs.gov/job/752666400?share
-Business Analyst III - Lottery,State of Colorado,56028,72840,,1,,,,https://www.governmentjobs.com/jobs/newprint/4210357
-Business Intelligence (BI) Developer II,Hennepin County,74269,109947,,1,,,,https://www.governmentjobs.com/jobs/newprint/4197729
-Data Scientist,Federal Deposit Insurance Corporation,170779,250000,,,1,,,https://www.usajobs.gov/job/750495100
-Director of Data Analytics,NYC Administration for Children's Services,82000,104000,1,,,,,https://www.linkedin.com/jobs/view/3727187663/
-Project Manager Analytics Specialist II,City of Detroit,59102,79323,,1,,,,https://www.governmentjobs.com/careers/detroit/jobs/newprint/4184182
-Data Scientist,Department of Labor,53105,102166,,,1,,,https://www.usajobs.gov/job/728781500
-ANALYTICS ENGINEER,City of San Francisco,139542,175552,,,,,1,https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990000892596-analytics-engineer-housing-team-1043-
-Data Engineer,The Seattle Public Library,113399,137891,,,,,1,https://www.governmentjobs.com/careers/seattle/jobs/newprint/3967919
-"Manager, Enterprise Applications",State of Colorado,95000,115000,,,,1,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4062748
-Director of Digital Services,City of Syracuse,80000,85000,1,,,,,http://www.innovatesyracuse.com/director-of-digital-services
-Director of Performance & Data Analytics,City of Stockton,129814,165664,1,,,,,https://www.bobmurrayassoc.com/search-summary?broc_id=5957
-Management and Program Analyst,National Highway Traffic Safety Administration,69107,128043,,1,,,,https://www.usajobs.gov/job/747175800
-Supervisor Data Analyst,City of Minneapolis,81862,104432,,1,,,,https://www.governmentjobs.com/careers/minneapolismn/jobs/newprint/4187296
-"Director, Strategy & Research",ADMIN FOR CHILDREN'S SVCS,103026,133630,1,,,,,https://cityjobs.nyc.gov/job/director-strategy-and-research-in-manhattan-jid-148511
-"Director, Technology Ideation",ADMIN FOR CHILDREN'S SVCS,75000,160000,1,,,,,https://cityjobs.nyc.gov/job/director-technology-ideation-in-manhattan-jid-15263
-Business Analyst,City of Detroit,99000,150000,,1,,,,https://www.governmentjobs.com/careers/detroit/jobs/newprint/4219768
-Data Analyst,City of Detroit,99000,115000,,1,,,,https://www.governmentjobs.com/careers/detroit/jobs/newprint/4219784
-Data Scientist,Bureau of Labor Statistics,112015,145617,,,1,,,https://www.usajobs.gov/job/751540800
-Business Analyst,HOUSING PRESERVATION & DVLPMNT,93288,107281,,1,,,,https://cityjobs.nyc.gov/job/business-analyst-in-nyc-all-boros-jid-9502
-"Manager, System Administration",State of Colorado,99000,126000,,,,1,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4215526
-Co-Director of Data and Policy,New Jersey Office of Innovation,100000,100000,1,,,,,https://innovation.nj.gov/join/co-director-data-and-policy/
-"Director, Research, Analytics & Evaluation (IDEA)",City of Philadephia,95000,110000,1,,,,,https://www.smartrecruiters.com/CityofPhiladelphia/743999930550374-director-research-analytics-evaluation-idea--
-Business Intelligence Report Developer and Support Analyst,State of Connecticut,105606,131567,,1,,,,https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&R1=230907&R2=7604FR&R3=001
-Management and Program Analyst,Department of the Treasury,98458,183307,,1,,,,https://www.usajobs.gov/job/748745800
-Business Services Analyst,City of Tacoma,84073,118372,,1,,,,https://www.governmentjobs.com/careers/tacoma/jobs/newprint/4181673
-Director of Analysis and Evaluation,Small Business Administration,155700,183500,1,,,,,https://www.usajobs.gov/job/753679800
-Research and Data Manager,City of Philadephia,75000,80000,,,,1,,https://www.smartrecruiters.com/CityofPhiladelphia/743999936827299-research-and-data-manager
-Data Analyst 3,NYS Office of General Services,100000,125000,,1,,,,https://www.linkedin.com/jobs/view/3737675359/
-Data Scientist,Office of Personnel Management,98496,158432,,,1,,,https://www.usajobs.gov/job/754459000
-Lead Management and Program Analyst,Department of the Treasury,149739,236357,,1,,,,https://www.usajobs.gov/job/755498300
-Senior Data Scientist,NYC Department of Transportation,103026,133630,,,1,,,https://cityjobs.nyc.gov/job/senior-data-scientist-in-manhattan-jid-151122
-Project Manager Analytics Specialist IV,City of Detroit,91873,120496,,1,,,,https://www.governmentjobs.com/jobs/newprint/4247392
-CHIEF DATA ANALYST,State of Rhode Island,127942,144912,,1,,,,https://www.governmentjobs.com/jobs/newprint/4258656
-Senior Manager for Data Services,City of Cambridge,121144,133010,,,,1,,https://phe.tbe.taleo.net/phe02/ats/careers/v2/viewRequisition?org=CAMBRIDGEMA&cws=37&rid=559
-DIRECTOR OF SPECIAL PROJECTS REPORTING & ANALYTICS,NYC HRA DEPT OF SOCIAL SERVICES,103026,118480,1,,,,,https://cityjobs.nyc.gov/job/director-of-special-projects-reporting-and-analytics-in-manhattan-jid-16170
-Program Director,State of Colorado,97000,120000,1,,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4261988
-Data Engineer,State of Connecticut,120395,150906,,,,,1,https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&R1=231103&R2=7607FR&R3=100
-Deputy Director of Data Technology,NYC Office of the Mayor,40000,175000,1,,,,,https://a002-oom03.nyc.gov/IRM/Handlers/Campaign/Attachments.ashx?attachmentId=edffe936-9f55-4000-83ff-fc352f94b601
-Data Scientist,FEMA,78000,95000,,,1,,,https://www.linkedin.com/jobs/view/3760452003/
+job_title,org_name,salary_min,salary_max,director_flag,analyst_flag,scientist_flag,manager_flag,engineer_flag,url,do_not_overwrite_flag
+Director,Centers of Excellence,132552,183300,1,,,,,https://www.usajobs.gov/GetJob/ViewDetails/615286200,
+Artificial Intelligence Specialist,Centers of Excellence,142701,170800,,,,,,https://drive.google.com/file/d/12Ik1jP78cQyY9nXF0hB-gnS9V0HwG06C/view,1
+Data and Analytics Specialist,Centers of Excellence,142701,170800,,1,,,,https://drive.google.com/file/d/1abhv-KfudFvIX7OCwfa0ZcU7zAOWzFWS/view,1
+Open Data Specialist,GSA,109366,142180,,,,,,https://drive.google.com/file/d/1PwKFGcJ6hMKVrbr5Zwz1tfWSncRKPiFL/view,
+Technology Portfolio Director,TTS Operations,106595,138572,1,,,,,https://drive.google.com/file/d/1bP0kbXeTeKEIsSZiiK1Y-O9RcsKhvkz5/view,
+Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/1KizKFfpnk6_J6XWgSRPXYJzWSquFVKrN/edit#heading=h.gjdgxs,1
+Business Intelligence Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/16sfsX3Ss6B12sYKQl362WTzHQ0CpDZBz/edit#heading=h.gjdgxs,1
+Business Solutions Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/1nbO1eBIhy1vLchpVkqHziefRqIOCWHYU/edit#heading=h.gjdgxs,1
+Data Engineer,State of California,,,,,,,1,https://docs.google.com/document/d/1Nn9I8RiVNxLOp_3qXouJemBTUbKiEaXd/edit#heading=h.gjdgxs,1
+Data Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/1HehRy29Sk_aRT-t5MdUU_nxMkl471vKW/edit#heading=h.gjdgxs,1
+Data Scientist,State of California,,,,,1,,,https://docs.google.com/document/d/1Dstgw0yvYEAoi4efCZC_9aSsxQe38EYW/edit#heading=h.gjdgxs,1
+Information Technology Expert,State of California,,,,,,,,https://docs.google.com/document/d/1CuH8t1TLgAxCg4Ci5FowTZb08SnljaFE/edit#heading=h.gjdgxs,1
+Senior Data Analyst,State of California,,,,1,,,,https://docs.google.com/document/d/1tILqTVuorJGRqn762mwwtE9jC_T0Ijyj/edit#heading=h.gjdgxs,1
+Senior Data Engineer,State of California,,,,,,,1,https://docs.google.com/document/d/1A3K0o2NEAALO8X74jwRFOSkInuZxiLZc/edit#heading=h.gjdgxss,1
+Senior Data Scientist,State of California,,,,,1,,,https://docs.google.com/document/d/1820HO8XDfj3PapAG1MRBtAh6T0zDHCww/edit#heading=h.gjdgxs,1
+Technical Lead,State of California,,,,,,,,https://docs.google.com/document/d/1kU8r8G2X5CjVai9HXszQxUTP6uioeX2R/edit#heading=h.gjdgxs,1
+Engineering Practices Lead,City of Austin,86000,116000,,,,,,https://docs.google.com/document/d/1R3Ok4wkecTsYWZSa73mV_QqExQqTnuoM/edit#heading=h.gjdgxs,
+Technical Lead,Colorado Digital Service,130000,130000,,,,,,https://docs.google.com/document/d/1XmjzAunDgBOXxRbqrJb82oD--4EInBHA/edit,
+"Associate Director, Programs and Evaluation",New York City Mayor's Office for Economic Opportunity (NYC Opportunity),90000,110000,1,,,,,https://drive.google.com/file/d/19mK3FkcleCPvAKuS5fv4J4zcJ4-WBSW1/view,1
+Data Curator and Scientist,New York City Mayor's Office for Economic Opportunity (NYC Opportunity),75504,94761,,,1,,,https://drive.google.com/file/d/1bNasVLnqB74Cjo83XP4UxajO0-9KHs8z/view,1
+Senior Data Scientist,New York City Mayor's Office for Economic Opportunity (NYC Opportunity),97000,110000,,,1,,,https://drive.google.com/file/d/1KR4vDXdsXxMPBJfhayxR1MyyJu1lWCAA/view,1
+Senior Business Analyst,Ontario Digital Service (ODS),74136,109246,,1,,,,https://docs.google.com/document/d/1q9ggkaU4JcmzKvQCmVkdHjK4bnlLHVt1/edit,
+"Senior Manager, Data",Ontario Digital Service (ODS),90348,135178,,,,1,,https://docs.google.com/document/d/1KbygBXLv0wIhwx0BYG0MPIVUYm19b0lS/edit,
+Information Technology Executive (Senior Business Analyst),Commonwealth of Pennsylvania,96626,146798,,1,,,,https://www.governmentjobs.com/careers/pabureau/jobs/newprint/4158606,
+"Head of Quality, Analytics, and Infrastructure",Commonwealth of Pennsylvania,150000,160000,1,,,,,https://www.governmentjobs.com/careers/pabureau/jobs/newprint/3994784,
+Data Analyst and Economist,State of Colorado,75000,100000,,1,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4271314,
+Senior Director of Data Operations,State of Colorado,108000,155000,1,,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4276723,
+Director of Data Science,State of Colorado,86916,99960,1,,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4165915,
+Digital Director,NYS Office of General Services,116000,148000,1,,,,,https://www.linkedin.com/jobs/view/3557143127/,
+Director of Digital Experience,Franklin County Data Center,115000,166000,1,,,,,https://drive.google.com/file/d/1FJRX63Xn1Q0qq5UU_hpoOsgXMMGhF_jV/view,
+"Director, Artificial Intelligence and Machine Learning",New York City Office of Technology & Innovation,75000,140000,1,,,,,https://www.linkedin.com/jobs/view/3529277849/,
+Research and Evaluation Practice Lead,City of Philadephia,75000,100000,,,,,,https://jobs.smartrecruiters.com/CityofPhiladelphia/743999899871273-research-and-evaluation-practice-lead,
+Digital Product Manager,City of Orlando,72675,96304,,,,1,,https://www.governmentjobs.com/careers/orlando/jobs/newprint/3935469,
+Director of Data Services,Department of Labor,117518,183500,1,,,,,https://www.usajobs.gov/job/717728100,
+"Senior Data Analytics and Reporting Data Engineer, Digital Platform Solutions",NYC Mayor's Office of Contract Services,,,,,,,1,https://www.linkedin.com/jobs/view/3499345155/,
+Senior Data Engineer,Metro Transit Authority,82411,108165,,,,,1,https://careers.mta.org/jobs/12548538-senior-data-engineer,
+Data Engineering Specialist,Metro Transit Authority,75484,99073,,,,,1,https://careers.mta.org/jobs/12548536-data-engineering-specialist,
+Bloomberg Data Engineer,City of San Francisco,132574,166790,,,,,1,https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990000449256-bloomberg-data-engineer-datasf-1043-,
+Data Scientist,Internal Revenue Service,111521,176300,,,1,,,https://www.usajobs.gov/job/690711800?utm_source=civictechjobs1,
+"Senior Manager, Data Science",Metro Transit Authority,83981,110225,,,,1,,https://careers.mta.org/jobs/12392577-sr-manager-data-science,
+Data Analyst,Office of Personnel Management,98496,158432,,1,,,,https://www.usajobs.gov/job/721954200,
+Technical Manager,City of New York,130000,150000,,,,1,,https://buildwithnyc.github.io/technicalmanager.html?utm_source=civictechjobs1,
+DTI Team Director,Delaware Department of Technology and Information,99749,110000,1,,,,,https://www.linkedin.com/jobs/view/3593263357/,
+Data Engineer,NYC Planning,85000,100000,,,,,1,https://medium.com/nyc-planning-digital/were-hiring-data-engineer-nyc-planning-ef95a3490e0,
+(DATA) Business Intelligence Manager,City of Philadephia,85000,95000,,,,1,,https://jobs.smartrecruiters.com/CityofPhiladelphia/743999796865537--data-business-intelligence-manager,
+Data Scientist,Department of State,112015,145617,,,1,,,https://www.usajobs.gov/job/724980800,
+Senior Analyst (Data Analysis),Government Accountability Office,105306,147726,,1,,,,https://www.usajobs.gov/job/725415500,
+Product Manager (Data Products),City of Boston,77085,114228,,,,1,,https://city-boston.icims.com/jobs/25132/product-manager-%28data-products%29/job?hub=8&mobile=false&width=947&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240,
+Manager Data Analytics,Metro Transit Authority,83981,110225,,,,1,,https://careers.mta.org/jobs/12248354-manager-data-analytics?tm_job=PS104080&amp;tm_event=view&amp;tm_company=47560&amp;bid=370,
+Director of Research and Analytics,State of New York,151901,154927,1,,,,,https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=134992,
+Director of Research and Data Analysis,Empire State Development,95000,100000,1,,,,,https://statejobsny.com/public/vacancyDetailsView.cfm?id=129051,
+Deputy Digital Director,Commonwealth of Pennsylvania,54181,82387,1,,,,,https://www.governmentjobs.com/careers/pabureau/jobs/newprint/3948036,
+Lead Data Scientist Analyst,Montgomery County Government,158000,158000,,,1,,,https://www.linkedin.com/jobs/view/3665997894/?refId=GRAOAe95FoGIiBAzbloc9A%3D%3D&trackingId=GRAOAe95FoGIiBAzbloc9A%3D%3D,
+Senior Data Scientist,Department of Health and Human Services,155700,183500,,,1,,,https://www.usajobs.gov/job/735621300,
+Senior Director Data Science,Metro Transit Authority,103345,135640,1,,,,,https://careers.mta.org/jobs/12248037-senior-director-data-science-ocso?tm_job=PS99674&amp;tm_event=view&amp;tm_company=47560&amp;bid=370,
+Data Privacy and Security Specialist,State of Colorado,83136,104580,,1,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4075480,
+Data Analyst,General Services Administration,116393,183500,,1,,,,https://www.usajobs.gov/job/736887500,
+Project Manager & Analytics Specialist III,City of Detroit,74896,93021,,1,,,,https://www.governmentjobs.com/jobs/newprint/4087827,
+Director of Data Services,Department of Labor,136908,183500,1,,,,,https://www.usajobs.gov/job/741336000,
+Data Scientist,Department of Homeland Security,115400,196000,,,1,,,https://www.usajobs.gov/job/737482500,
+Sr. IT Specialist (Business Analyst Researcher),Montgomery County Government,134000,134000,,1,,,,https://www.linkedin.com/jobs/view/3666003009/,
+Director of Agency Metrics,NYC Office of the Mayor,150000,210000,1,,,,,https://a002-oom03.nyc.gov/irm/Handlers/Campaign/Attachments.ashx?attachmentId=5b8ea079-c38e-4d2e-9a4a-85a90cceb94d,
+Assistant Director of Data Systems,Commonwealth of Massachusetts,75000,117000,1,,,,,https://www.linkedin.com/jobs/view/3678235338/,
+Product Data and Analytics Lead,New Jersey Office of Innovation,75000,100000,,1,,,,https://innovation.nj.gov/join/bizx-product-data-and-analytics-lead//,
+Director HR Data Science,Metro Transit Authority,117785,154593,1,,,,,https://careers.mta.org/jobs/12434721-director-hr-data-science?tm_job=664&amp;tm_event=view&amp;tm_company=47560&amp;bid=370,
+Interdisciplinary Data Scientist (Advanced Analytics),Government Accountability Office,105306,147726,,,1,,,https://www.usajobs.gov/job/744768200,
+Director of Data and Information Technology Management,NYS Department of Transportation,133000,169000,1,,,,,https://www.linkedin.com/jobs/view/3709836827/,
+Manager of Performance Data and Technology,MBTA,77000,102000,,,,1,,https://www.linkedin.com/jobs/view/3706898745/,
+Deputy Director of Lean Analytics,MBTA,,,1,,,,,https://www.linkedin.com/jobs/view/3706308675/,
+Data Strategy Senior Manager – Data Services,Commonwealth of Massachusetts,81000,126000,,,,1,,https://www.linkedin.com/jobs/view/3707222348/,
+IT Senior Business Analyst,New York City Housing Development Corporation,110000,120000,,1,,,,https://www.linkedin.com/jobs/view/3691496645/,
+Management and Program Analyst,U.S. Department of Commerce,,,,1,,,,https://www.linkedin.com/jobs/view/3706701353/,
+Management and Program Analyst,Department of Education,132368,172075,,1,,,,https://www.usajobs.gov/job/745085800,
+Data Scientist,Department of Commerce,78592,122459,,,1,,,https://www.usajobs.gov/job/7456315000,
+"Data Strategy Senior Manager, Data Services",Massachusetts Executive Office of Health and Human Services,,,,,,1,,https://www.linkedin.com/jobs/view/3708007602/,
+Manager of Performance Data and Technology,MBTA,77000,102000,,,,1,,https://www.linkedin.com/jobs/view/3706898745/,
+"POLICY ADVISOR, DATA MANAGEMENT & ANALYSIS",HRA DEPT OF SOCIAL SERVICES,75504,83901,,1,,,,https://cityjobs.nyc.gov/job/policy-advisor-data-management-and-analysis-in-manhattan-jid-12068,
+Director of Planning and Research,South Carolina Department of Children's Advocacy,54974,101712,1,,,,,https://www.governmentjobs.com/jobs/newprint/4178606,
+SENIOR DATA SCIENTIST,County of Los Angeles,115637,155836,,,1,,,https://www.governmentjobs.com/careers/lacounty/jobs/newprint/4146330,
+"Manager, Report Development",Los Angeles Homeless Services Authority (LAHSA),84558,122610,,,,1,,https://www.governmentjobs.com/careers/lahsa/jobs/newprint/4181397,
+Statistician,Department of the Treasury,69107,158432,,1,,,,https://www.usajobs.gov/job/745958000,
+Director of Research and Evaluation,City of Philadephia,77400,101000,1,,,,,https://www.smartrecruiters.com/CityofPhiladelphia/743999934785221-director-of-research-and-evaluation,
+ORU Research and Data Manager,City of Philadephia,70000,80000,,,,1,,https://jobs.smartrecruiters.com/CityofPhiladelphia/743999935468945-oru-research-and-data-managerr,
+Information Technology Specialist,National Gallery of Art,112000,173000,,1,,,,https://www.linkedin.com/jobs/view/3734606942/?refId=4Cb7%2BdE2TrmHpFvVrMoBGA%3D%3D&trackingId=4Cb7%2BdE2TrmHpFvVrMoBGA%3D%3D,
+I&T DATA SERVICES ANALYST,City of Charlotte,78814,93500,,1,,,,https://www.jobapscloud.com/oec/Charlotte/Jobs/Bulletin?R1=2310&R2=371100&R3=01,
+Program Reporting and Transparency Manager,State of Colorado,100620,134400,,,,1,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4232513,
+CCCAP Research and Data Analyst,State of Colorado,68100,88524,,1,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4221282,
+IT Specialist (Data Management),Federal Aviation Administration,88791,137651,,1,,,,https://www.usajobs.gov/job/752666400?share,
+Business Analyst III - Lottery,State of Colorado,56028,72840,,1,,,,https://www.governmentjobs.com/jobs/newprint/4210357,
+Business Intelligence (BI) Developer II,Hennepin County,74269,109947,,1,,,,https://www.governmentjobs.com/jobs/newprint/4197729,
+Data Scientist,Federal Deposit Insurance Corporation,170779,250000,,,1,,,https://www.usajobs.gov/job/750495100,
+Director of Data Analytics,NYC Administration for Children's Services,82000,104000,1,,,,,https://www.linkedin.com/jobs/view/3727187663/,
+Project Manager Analytics Specialist II,City of Detroit,59102,79323,,1,,,,https://www.governmentjobs.com/careers/detroit/jobs/newprint/4184182,
+Data Scientist,Department of Labor,53105,102166,,,1,,,https://www.usajobs.gov/job/728781500,
+ANALYTICS ENGINEER,City of San Francisco,139542,175552,,,,,1,https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990000892596-analytics-engineer-housing-team-1043-,
+Data Engineer,The Seattle Public Library,113399,137891,,,,,1,https://www.governmentjobs.com/careers/seattle/jobs/newprint/3967919,
+"Manager, Enterprise Applications",State of Colorado,95000,115000,,,,1,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4062748,
+Director of Digital Services,City of Syracuse,80000,85000,1,,,,,http://www.innovatesyracuse.com/director-of-digital-services,
+Director of Performance & Data Analytics,City of Stockton,129814,165664,1,,,,,https://www.bobmurrayassoc.com/search-summary?broc_id=5957,
+Management and Program Analyst,National Highway Traffic Safety Administration,69107,128043,,1,,,,https://www.usajobs.gov/job/747175800,
+Supervisor Data Analyst,City of Minneapolis,81862,104432,,1,,,,https://www.governmentjobs.com/careers/minneapolismn/jobs/newprint/4187296,
+"Director, Strategy & Research",ADMIN FOR CHILDREN'S SVCS,103026,133630,1,,,,,https://cityjobs.nyc.gov/job/director-strategy-and-research-in-manhattan-jid-148511,1
+"Director, Technology Ideation",ADMIN FOR CHILDREN'S SVCS,75000,160000,1,,,,,https://cityjobs.nyc.gov/job/director-technology-ideation-in-manhattan-jid-15263,1
+Business Analyst,City of Detroit,99000,150000,,1,,,,https://www.governmentjobs.com/careers/detroit/jobs/newprint/4219768,
+Data Analyst,City of Detroit,99000,115000,,1,,,,https://www.governmentjobs.com/careers/detroit/jobs/newprint/4219784,
+Data Scientist,Bureau of Labor Statistics,112015,145617,,,1,,,https://www.usajobs.gov/job/751540800,
+Business Analyst,HOUSING PRESERVATION & DVLPMNT,93288,107281,,1,,,,https://cityjobs.nyc.gov/job/business-analyst-in-nyc-all-boros-jid-9502,
+"Manager, System Administration",State of Colorado,99000,126000,,,,1,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4215526,
+Co-Director of Data and Policy,New Jersey Office of Innovation,100000,100000,1,,,,,https://innovation.nj.gov/join/co-director-data-and-policy/,
+"Director, Research, Analytics & Evaluation (IDEA)",City of Philadephia,95000,110000,1,,,,,https://www.smartrecruiters.com/CityofPhiladelphia/743999930550374-director-research-analytics-evaluation-idea--,
+Business Intelligence Report Developer and Support Analyst,State of Connecticut,105606,131567,,1,,,,https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&R1=230907&R2=7604FR&R3=001,
+Management and Program Analyst,Department of the Treasury,98458,183307,,1,,,,https://www.usajobs.gov/job/748745800,
+Business Services Analyst,City of Tacoma,84073,118372,,1,,,,https://www.governmentjobs.com/careers/tacoma/jobs/newprint/4181673,
+Director of Analysis and Evaluation,Small Business Administration,155700,183500,1,,,,,https://www.usajobs.gov/job/753679800,
+Research and Data Manager,City of Philadephia,75000,80000,,,,1,,https://www.smartrecruiters.com/CityofPhiladelphia/743999936827299-research-and-data-manager,
+Data Analyst 3,NYS Office of General Services,100000,125000,,1,,,,https://www.linkedin.com/jobs/view/3737675359/,
+Data Scientist,Office of Personnel Management,98496,158432,,,1,,,https://www.usajobs.gov/job/754459000,
+Lead Management and Program Analyst,Department of the Treasury,149739,236357,,1,,,,https://www.usajobs.gov/job/755498300,
+Senior Data Scientist,NYC Department of Transportation,103026,133630,,,1,,,https://cityjobs.nyc.gov/job/senior-data-scientist-in-manhattan-jid-151122,
+Project Manager Analytics Specialist IV,City of Detroit,91873,120496,,1,,,,https://www.governmentjobs.com/jobs/newprint/4247392,
+CHIEF DATA ANALYST,State of Rhode Island,127942,144912,,1,,,,https://www.governmentjobs.com/jobs/newprint/4258656,
+Senior Manager for Data Services,City of Cambridge,121144,133010,,,,1,,https://phe.tbe.taleo.net/phe02/ats/careers/v2/viewRequisition?org=CAMBRIDGEMA&cws=37&rid=559,
+DIRECTOR OF SPECIAL PROJECTS REPORTING & ANALYTICS,NYC HRA DEPT OF SOCIAL SERVICES,103026,118480,1,,,,,https://cityjobs.nyc.gov/job/director-of-special-projects-reporting-and-analytics-in-manhattan-jid-16170,
+Program Director,State of Colorado,97000,120000,1,,,,,https://www.governmentjobs.com/careers/colorado/jobs/newprint/4261988,
+Data Engineer,State of Connecticut,120395,150906,,,,,1,https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&R1=231103&R2=7607FR&R3=100,
+Deputy Director of Data Technology,NYC Office of the Mayor,40000,175000,1,,,,,https://a002-oom03.nyc.gov/IRM/Handlers/Campaign/Attachments.ashx?attachmentId=edffe936-9f55-4000-83ff-fc352f94b601,
+Data Scientist,FEMA,78000,95000,,,1,,,https://www.linkedin.com/jobs/view/3760452003/,
+Data Operation Administrator/Officer,New Jersey Department of Labor and Workforce Development,"133,750","143,750",1,,,,,https://www.nj.gov/labor/assets/PDFs/Human%20Capital%20Strategies/2023/2023-352.pdf,
+Chief Data Officer,State of North Carolina,"82,011","132,535",1,,,,,https://www.governmentjobs.com/careers/northcarolina/jobs/newprint/4234373,
+"Deputy Director, Public Works - Policy, Outreach, & Data Analysis",County of San Diego,"142,000.00","152,500.00",1,,,,,https://jobs.naco.org/job/print/71408388/,
+Electronic Data Exchange Supervisor,"State of Connecticut, Department of Administrative Services","120,395","150,906",,,,1,,https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&R1=231107&R2=7606FR&R3=0011,
+Data Analyst,Library of Congress,"112,015","145,617",,1,,,,https://www.usajobs.gov/job/758823300,
+Enterprise Data Architect/Scientist,Prince George's County Government,"119,615.00","163,455.00",,,1,,,https://www.governmentjobs.com/jobs/newprint/4275533,
+Business Process Analyst II - Data Analytics,City of Fort Worth,"70,000","93,000",,1,,,,https://www.linkedin.com/jobs/view/3760913927/?refId=8MrsvBpPQJiWxd%2FGA9RwNA%3D%3D&trackingId=8MrsvBpPQJiWxd%2FGA9RwNA%3D%3D,
+Data & Policy Analyst - Police,City of San Francisco,"113,386","137,800",,1,,,,https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990002968686-data-policy-analyst-police-1823-?trid=463ac537-35c8-4256-8fe4-47ea285de0a6,
